@@ -1,6 +1,6 @@
 <?php
  
-$strAccessToken = "ACCESS_TOKEN";5Z3kXvKm30Y8/yTuLMscjyC8T1ZBuxFq11s1y+SFBHtiR57fIuawD2D3Ee+8X2MnXqAvf0lOAtZhPguI7RWpdasaiqM/w+fqoar3NJvviArthB3JcZDQNqA4cBCNCMlJ2JJ7qDHrvi67AZRSAMZGZAdB04t89/1O/w1cDnyilFU=
+$strAccessToken = "5Z3kXvKm30Y8/yTuLMscjyC8T1ZBuxFq11s1y+SFBHtiR57fIuawD2D3Ee+8X2MnXqAvf0lOAtZhPguI7RWpdasaiqM/w+fqoar3NJvviArthB3JcZDQNqA4cBCNCMlJ2JJ7qDHrvi67AZRSAMZGZAdB04t89/1O/w1cDnyilFU=";
  
 $content = file_get_contents('php://input');
 $arrJson = json_decode($content, true);
